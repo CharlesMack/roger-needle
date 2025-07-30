@@ -25,9 +25,11 @@ This repo is a **high-level preview** of a proprietary system.
 
 ---
 
-<img width="1024" height="1024" alt="A_flowchart_infographic_titled_Roger_Needle_—_Arc" src="https://github.com/user-attachments/assets/e290d552-7296-4024-ad17-1ee148ca23e3" />
+
+<img width="1024" height="1024" alt="architecture-overview" src="https://github.com/user-attachments/assets/b1302467-061c-476e-bf55-9d8b683fe4ac" />
 
 ---
+
 
 ## 📄 Licensing & IP
 
