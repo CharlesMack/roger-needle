@@ -1,0 +1,8 @@
+NOTICE
+
+This repository contains proprietary concepts that may be subject to future patents.  
+Monitoring and tracking of unauthorized access or usage may occur.
+
+Downloading or viewing this content does **not** constitute permission or a license to use.
+
+For permission, contact: legal@25sites.com
