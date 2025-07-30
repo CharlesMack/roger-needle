@@ -43,3 +43,4 @@ Contact legal@25sites.com for licensing or usage inquiries.
 
 Built by Charles Mack III  
 🔗 [25Sites.com](https://25sites.com) | 🧠 Building the Big Boy OS
+<img width="1024" height="1024" alt="A_flowchart_infographic_titled_Roger_Needle_—_Arc" src="https://github.com/user-attachments/assets/e290d552-7296-4024-ad17-1ee148ca23e3" />
